@@ -38,21 +38,23 @@ The AI Chat App is a chatbot implementation that pioneers a 30% responsiveness b
 4. **Open your browser and navigate to [http://localhost:8501](http://localhost:8501) to access the AI Chat App.**
 
 
-## Rersults Demo
+# Results Demo
 
-1. LLM uses Duckduckgo agent for retrieving latest information if it doesn't know the answer.
+## 1. DuckDuckGo Agent for Information Retrieval
+- The Language Model (LLM) utilizes the DuckDuckGo agent to retrieve the latest information if it lacks the answer.
+![DuckDuckGo Agent](https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/23ecc2bc-6513-4a3f-b185-46db2897b70a)
 
-<img width="1208" alt="image" src="https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/23ecc2bc-6513-4a3f-b185-46db2897b70a">
+## 2. Interaction with Multiple Files
+- Capable of interacting with multiple files for diverse functionality.
+![Multiple Files Interaction](https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/ca507482-9c6a-4006-bdc7-1a11b2488243)
 
-2. It is capable of interacting with multiple files.
+## 3. Image Captioning Model
+- Incorporates an image captioning model, generating textual descriptions for visual content within an image.
+![Image Captioning Model](https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/f7c1efa2-d39f-4cb2-aec7-c3be039d1fd4)
 
-<img width="1138" alt="image" src="https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/ca507482-9c6a-4006-bdc7-1a11b2488243">
-
-3. Image captioning model, generating textual descriptions of the visual content within an image.
-
-<img width="1105" alt="image" src="https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/f7c1efa2-d39f-4cb2-aec7-c3be039d1fd4">
-
-4. Speech or audio processing model, enabling tasks such as transcription, speech recognition, or generating textual summaries based on the content of the audio data.
+## 4. Speech or Audio Processing Model
+- Employs a speech or audio processing model, enabling tasks like transcription, speech recognition, and generating textual summaries based on audio data.
+![Audio Processing Model](https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/746712b6-9cb2-4e65-8cd5-e0b8e77acc29)
 
 
 
