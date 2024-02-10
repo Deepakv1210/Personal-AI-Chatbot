@@ -44,7 +44,17 @@ The AI Chat App is a chatbot implementation that pioneers a 30% responsiveness b
 
 <img width="1208" alt="image" src="https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/23ecc2bc-6513-4a3f-b185-46db2897b70a">
 
-2. 
+2. It is capable of interacting with multiple files.
+
+<img width="1138" alt="image" src="https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/ca507482-9c6a-4006-bdc7-1a11b2488243">
+
+3. Image captioning model, generating textual descriptions of the visual content within an image.
+
+<img width="1105" alt="image" src="https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/f7c1efa2-d39f-4cb2-aec7-c3be039d1fd4">
+
+4. Speech or audio processing model, enabling tasks such as transcription, speech recognition, or generating textual summaries based on the content of the audio data.
+
+
 
 
 ## Configuration
