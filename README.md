@@ -37,6 +37,16 @@ The AI Chat App is a chatbot implementation that pioneers a 30% responsiveness b
 
 4. **Open your browser and navigate to [http://localhost:8501](http://localhost:8501) to access the AI Chat App.**
 
+
+## Rersults Demo
+
+1. LLM uses Duckduckgo agent for retrieving latest information if it doesn't know the answer.
+
+<img width="1208" alt="image" src="https://github.com/Deepakv1210/Personal-AI-Chatbot/assets/154148155/23ecc2bc-6513-4a3f-b185-46db2897b70a">
+
+2. 
+
+
 ## Configuration
 
 The app can be configured by modifying the `config.yaml` file. Adjust the parameters according to your preferences.
