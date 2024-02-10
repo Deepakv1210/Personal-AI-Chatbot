@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AI Chat App is a chatbot implementation that pioneers a 30% responsiveness boost with zero-cost implementation and an interactive interface. It seamlessly integrates audio, image, and PDF AI models, leveraging the open-source Mistral LLM and Ollama.
+The AI Chat App seamlessly integrates audio, image, and PDF AI models, with zero-cost implementation and an interactive interface, leveraging the open-source Mistral LLM and Ollama.
 
 ## Features
 
